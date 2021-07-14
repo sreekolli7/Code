@@ -30,6 +30,7 @@ func main() {
 			"cookies and cream",
 		},
 	}
+
 	for _, v := range adult1.favFlavors {
 		fmt.Println(v)
 	}
