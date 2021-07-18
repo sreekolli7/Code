@@ -1,0 +1,8 @@
+07/18/2021
+1. Complete L3
+2. L4 has wrong code and incomplete... Check
+3. L5- We did this together and you said you are going to re-do it. I see the old files. Update them with your versions. 4.go is complete too
+4.L6 - 1.go variable names are also inline with provided answers. Can you repeat it without looking at results. Check 2.go and rest of excerise code is missing
+5. L8 is incomplete
+
+Complete these and checkin before going ahead
