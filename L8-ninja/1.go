@@ -23,8 +23,8 @@ func main() {
 		Age:   18,
 	}
 
-	people := []person{p1, p2}
+	person := []person{p1, p2}
 
-	fmt.Println(people)
+	fmt.Println(person)
 
 }

@@ -4,11 +4,4 @@ package main
 // for { }
 // Have it print out the years you have been alive.
 
-
-
-import "fmt"
-
-func main() {
-	// Same like previous but use for and move condition to if. declare and increment year in for
-
-}
+// Same like previous but use for and move condition to if. declare and increment year in for

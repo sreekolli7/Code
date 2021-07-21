@@ -21,7 +21,7 @@ func main() {
 		},
 	}
 
-	adult2 := adult{
+	adult2 := adult2
 		first: "Sree",
 		last:  "Kolli",
 		favFlavors: []string{

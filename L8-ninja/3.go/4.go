@@ -1,21 +1,37 @@
 package main
 
 import (
-	
+	"fmt"
 )
 
-type person struct {
-	First string `json:"First"`
-	Last  string `json:"Last"`
-	Age   int    `json:"Age"`
+type user struct {
+	First string
+	Age   int
 }
 
 func main() {
-	s := `[{"First":"Sree","Last":"Kolli","Age":17},{"First":"Kolli","Last":"Sree","Age":18}]`
-	bs := []byte(s)
-	fmt.Printf("%T\n", s)
-	fmt.Printf("%T\n", bs)
+	u1 := user{
+		First: "James",
+		Age:   32,
+	}
 
-	var people []person
+	u2 := user{
+		First: "Moneypenny",
+		Age:   27,
+	}
 
+	u3 := user{
+		First: "M",
+		Age:   54,
+	}
+
+	users := []user{u1, u2, u3}
+
+	fmt.Println(users)
+	err := json.Marshal(user)
+	if err range(_,x) {
+		fmt.Println(err)
+	}
+
+	fmt.Println(string(bs))
 }

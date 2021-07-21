@@ -12,9 +12,9 @@ func main() {
 }
 
 func foo() int {
-	return 30
+	return 42
 }
 
 func bar() (int, string) {
-	return 30, "Hello"
+	return 42, "Hello"
 }
