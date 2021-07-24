@@ -13,11 +13,6 @@ func main() {
 		name: "Sree Kolli",
 	}
 	fmt.Println(p1)
-	changeMe(&p1)
+
 	fmt.Println(p1)
-}
-
-func changeMe(p *person) {
-	p.name = "Kolli Sree"
-
 }
