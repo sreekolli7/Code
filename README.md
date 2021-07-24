@@ -495,12 +495,11 @@ you CAN pass a value of type *person into saySomething
 you CANNOT pass a value of type person into saySomething
 here is a hint if you need some help
 https://play.golang.org/p/FAwcQbNtMG 
-
 Receivers       Values
 -----------------------------------------------
 (t T)           T and *T
 (t *T)          *T
-
+-----------------------------------------------
 code: https://github.com/GoesToEleven/go-programming 
 video: 149
 1. Hands-on exercise #3
