@@ -6,6 +6,15 @@ package main
 import "fmt"
 
 func main() {
+	x := 1
+    if x >= 1 {
+        fmt.Println("Passed")
+    }
+     else {
+        fmt.Println("Did not pass")
+    }
+}
+
 	// continue before program with else if and else
 
 }

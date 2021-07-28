@@ -3,10 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	i := 1
-	for i <= 10000 {
-		fmt.Println(i)
-		i++
-	}
+	for x:=                     //assinging i to one
+	1; 
+	x <= 10000;                   // i greater or equal to 100 to get 10-10000
+	 x++ {                        //i++ is used for incrementing
+        fmt.Print(x)             // used to print out the output
+    }
+}
 
 }
