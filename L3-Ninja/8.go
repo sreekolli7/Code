@@ -14,3 +14,6 @@ func main() {
 	// use booleans as switch expressions
 
 }
+
+
+//Write more cases...do more case excercises from google
