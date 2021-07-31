@@ -18,3 +18,6 @@ func main() {
 	// continue before program with else if and else
 
 }
+
+
+//DIdnt IDE warn you about identation?
