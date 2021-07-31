@@ -26,3 +26,4 @@ func main() {
 	// Declare favSport and make it input using scanf.. now write switch to print different outputs in diff scenarios
 
 }
+//Good job but no case for Volleyball..there is one for cae default (or something ) which you can use to print for not 3 cases
