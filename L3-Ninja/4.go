@@ -24,3 +24,5 @@ unc main() {
 }
 
 // Same like previous but use for and move condition to if. declare and increment year in for
+
+//Solution is wrong . lets discuss it 
