@@ -12,3 +12,5 @@ func main() {
 }
 
 }
+
+//Comments are in appropriate but code is good.. and  for statement needs to be in 1 line
