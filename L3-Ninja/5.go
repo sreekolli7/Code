@@ -15,3 +15,5 @@ func main() {
 	// loop from 10 to 100 and print %4 of every iteration
 
 }
+
+//Looks good
