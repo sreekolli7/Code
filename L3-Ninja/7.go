@@ -21,13 +21,27 @@ func main() {
 	//		fmt.Println("Student 5")
 	//	}
 	//}
+	count := 0
+	for i := 3; i <= 1000; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				count++
+			}
 
+		}
+		if count == 0 {
+			fmt.Println(i)
+		} else {
+			count = 0
+			smallnumber := i
+			for _, smallnumber := range i {
+				if smallnumber > i {
 
-for i := 3; i <= 1000; i++ {
-    for (j :=2; j<i; j++)
-    if (i% j == 0) 
-    fmt.Println(i, j)
+				}
+				fmt.Println(smallnumber)
+			}
+
+			// continue before program with else if and else
+		}
+	}
 }
-}
- 
-// continue before program with else if and else
